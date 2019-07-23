@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class="container">
-<h1>The breads</h1>
+<h1 class="text-info">The breads</h1>
         <ul class="nav nav-tabs">
                 <li class="nav-item">
                   <a class="nav-link active" href="#">Active</a>
@@ -29,19 +29,36 @@
               </ul>
 
 <div class="row">
-<div class="col"><p> this is an ancient bread used for infinite life</p>
+<div class="col"><p> this is a bread used for infinite life</p>
 <img width=300 src= "https://d2gk7xgygi98cy.cloudfront.net/1360-3-large.jpg" alt=""></div>
 <div class="col">
 <h3>What are the benifits of bread?</h3> 
-<p>Although it may not seem like it, bread can give a human godlike powers. including: Flying, Creating carbon, standing on clouds and the ability to create more bread </p>
+<p>Although it may not seem like it, bread can give a human godlike powers. including: Flying, Creating carbon, standing on clouds and most impotantly the ability to create more bread </p>
 
 
 <p>you may ask. How do i recive these powers? simple, you have to eat twenty loaves of bread ibn one sitting. one bag of bagles is allowed if you are out of bread.</p>
 
-</div>
 
 </div>
 
+</div>
+<div class="row">
+<div class="col">
+<h4>
+Why you should buy bread
+</h4>
+<p>
+
+</p>
+
+
+</div>
+
+
+
+
+
+</div>
 
 
 </div>
